@@ -14,3 +14,5 @@ I like turtles. (Probably some important text here that explains all of the impo
 - They will always beat you at a contest to see which one of you can hold their breath underwater longer.
 - They are delightful by default.
 - Who doesn't like a turtle, really?
+
+[Read Me!](readme.md)
